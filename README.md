@@ -1,4 +1,4 @@
-Alternative to gamejolt
+Unofficial alternative to gamejolt
 
 [A Different Snowgrave](https://gamejolt.com/games/DifferentSnowgrave/726965) by [loganvcairns](https://gamejolt.com/@loganvcairns)
 
